@@ -1,5 +1,5 @@
 {
-  "name": "@omchain/javascript-sdk",
+  "name": "@omexchain/javascript-sdk",
   "version": "0.0.29",
   "license": "Apache-2.0",
   "main": "lib/index.js",
